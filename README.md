@@ -1,4 +1,4 @@
-# Mamaniyozov_project
+# Mamaniyozov
 ### Hi there 👋
 ![Mamaniyozov's github stats](https://github-readme-stats.vercel.app/api?username=Mamaniyozov&show_icons=true&theme=tokyonight)
 [![CodeWars](https://www.codewars.com/users/Mamaniyozov/badges/large)]([https://www.codewars.com/users/Mamaniyozov(https://www.codewars.com/users/Mamaniyozov))
