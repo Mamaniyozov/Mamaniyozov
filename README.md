@@ -17,7 +17,7 @@
 )](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadkhanusmanov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mamaniyozov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## About Me
 ### Hi there 👋. I'm Muhammdyusuf and I'm from [UZBEKISTAN🇺🇿   ](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 years old. I study at [SamTATU ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://tuit.uz/samarqand-filiali)
