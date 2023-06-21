@@ -32,11 +32,6 @@
 <a href="https://hashnode.com/abhayporwals.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abhayporwals.hashnode.dev" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=professorabhay&show_icons=true&locale=en" alt="professorabhay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professorabhay&" alt="professorabhay" /></p>
-
 # Mamaniyozov
 ### Hi there 👋
 ![Mamaniyozov's github stats](https://github-readme-stats.vercel.app/api?username=Mamaniyozov&show_icons=true&theme=tokyonight)
