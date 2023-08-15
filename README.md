@@ -29,7 +29,7 @@
 
 # Mamaniyozov
 ### Hi there 👋
-![Mamaniyozov's github stats](https://github-readme-stats.vercel.app/api?username=Mamaniyozov&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamaniyozov&show_icons=true&theme=tokyonight)
 [![CodeWars](https://www.codewars.com/users/Mamaniyozov/badges/large)]([https://www.codewars.com/users/Mamaniyozov(https://www.codewars.com/users/Mamaniyozov))
 # [Mamaniyozov Muhammdyusuf!](mamaniyozovmuhammadyusuf5@gmail.com) ![Developer Icon](./images/developer.png) 🇺🇿 
 ## Social networks
