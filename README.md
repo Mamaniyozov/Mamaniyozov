@@ -47,7 +47,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Mamaniyozov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## About Me
-### Hi there 👋. I'm Muhammdyusuf and I'm from [UZBEKISTAN🇺🇿   ](https://en.wikipedia.org/wiki/Uzbekistan). I'm 21 years old. I study at [SamTATU ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://tuit.uz/samarqand-filiali)
+### Hi there 👋. I'm Muhammdyusuf and I'm from [UZBEKISTAN🇺🇿   ](https://en.wikipedia.org/wiki/Uzbekistan). I'm 22 years old. I study at [SamTATU ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://tuit.uz/samarqand-filiali)
 - **⭕ Visit My Instagram Accout [@mamaniyozovmuhammadyusuf](https://www.instagram.com/mamaniyozovmuhammadyusuf/)**
 - **🔵 Chat with me on Telegram Messanger [@Muhammadyusuf_5538](https://t.me/Muhammadyusuf_5538)**
 - **🟣 Visit My Twitter Accout [@muhammadyusuf5538](https://www.instagram.com/muhammadyusuf5538/)**
