@@ -1,4 +1,4 @@
-<div align="center">
+content = '''<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Muhammadyusuf+Mamaniyozov;Full-Stack+Developer;Backend+Specialist;Security+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -115,3 +115,8 @@ Men **Django** va **ASP.NET** ekotizimida yuqori yuklamali, ishonchli hamda keng
   <p>⚡ "Hack The World, Secure The Future" 🥷</p>
   <p>Built with ❤️ by Muhammadyusuf Mamaniyozov</p>
 </div>
+'''
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(content)
+print('README.md premium versiyaga yangilandi')
