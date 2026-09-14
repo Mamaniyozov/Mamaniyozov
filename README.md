@@ -202,7 +202,39 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 - **Reproducible Environments:** Docker yordamida har doim barqaror ishlaydigan muhit.
 
 
+## 🖥️ System & Engineering Metrics
 
+```bash
+[root@mamaniyozov ~]# neofetch --profile
+---------------------------------------
+HOST: Tashkent / Samarkand, UZ 🇺🇿
+ROLE: Full-Stack & Backend Engineer
+SECURITY LEVEL: Hardened (RBAC / JWT / 2FA)
+PRIMARY ARCH: Django • ASP.NET Core • DRF • PostgreSQL
+CONTAINERIZATION: Docker & Compose
+SHELL: Bash / Linux Environment
+STATUS: 870+ Contributions & Building Scalable Systems
+```
+
+---
+
+## ⚙️ Engineering Standards
+
+| Yo‘nalish | Amaliyot & Metodologiya |
+| :--- | :--- |
+| **API & Architecture** | Clean Architecture, RESTful standards, Modular structure |
+| **Security & Auth** | JWT Lifecycle, 2FA, Role-Based Access Control, SQLi / CSRF himoyasi |
+| **Databases** | PostgreSQL relyatsion dizayni, indekslash, Query optimizatsiyasi |
+| **Testing & CI** | Pytest, avtomatlashtirilgan unit/integratsion testlar, Postman |
+| **Infrastructure** | Docker muhiti, Linux boshqaruvi, Nginx reverse proxy |
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
 ---
 ## 📊 GitHub Activity
 
