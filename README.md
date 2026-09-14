@@ -124,18 +124,7 @@ Men murakkab biznes talablarini sodda, maintainable va ishonchli dasturiy yechim
 </p>
 
 ---
----
-## 📊 GitHub Stats & Activity
 
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Mamaniyozov&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mamaniyozov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Mamaniyozov&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-</p>
----
 ## 🚀 Featured Projects
 
 ### 🏥 Doctor-Direct — Healthcare Management API
