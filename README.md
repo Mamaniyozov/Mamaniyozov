@@ -218,11 +218,20 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 </div>
 
 ---
-## 📈 Contribution Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TrickyKid/TrickyKid/master/assets/pixel-art.gif" width="100%" alt="Pixel art separator" />
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+### ⚡ "Hack The World, Secure The Future" 🥷
+
+<p>
+  Built with ❤️ and continuous curiosity by
+  <a href="https://github.com/Mamaniyozov"><strong>Muhammadyusuf Mamaniyozov</strong></a>
+</p>
 
 </div>
 ---
