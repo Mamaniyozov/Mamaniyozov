@@ -201,20 +201,7 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 - **Query Optimization:** Baza so‘rovlarini indekslash va `N+1` muammolarini bartaraf etish.
 - **Reproducible Environments:** Docker yordamida har doim barqaror ishlaydigan muhit.
 
----
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mamaniyozov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamaniyozov&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most used languages" />
-
-<p align="center" style="margin-top: 12px;">
-  <img src="https://streak-stats.demolab.com/?user=Mamaniyozov&theme=tokyonight&hide_border=true" width="65%" alt="GitHub streak" />
-</p>
-
-</div>
 
 ---
 ## 📊 GitHub Activity
