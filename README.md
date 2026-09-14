@@ -217,23 +217,29 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 </div>
 
 ---
-
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mamaniyozov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Mamaniyozov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub statistics" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mamaniyozov&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most used languages" />
+
+<p align="center" style="margin-top: 12px;">
+  <img src="https://streak-stats.demolab.com/?user=Mamaniyozov&theme=tokyonight&hide_border=true" width="65%" alt="GitHub streak" />
+</p>
 
 </div>
+
 ---
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
+
 ---
 
 ## 🤝 Let's Connect
