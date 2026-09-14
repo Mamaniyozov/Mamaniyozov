@@ -222,7 +222,7 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 ---
