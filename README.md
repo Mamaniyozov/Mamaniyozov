@@ -218,6 +218,7 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 
 ---
 
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -225,7 +226,13 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 <img src="https://github-profile-trophy.vercel.app/?username=Mamaniyozov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
 
 </div>
+## 📈 Contribution Graph
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+</div>
 ---
 
 ## 🤝 Let's Connect
