@@ -218,15 +218,13 @@ Men dasturiy ta’minot yaratishda xavfsizlikni keyinchalik qo‘shiladigan vosi
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamaniyozov&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
